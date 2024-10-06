@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sunstudio.foldercreator": {
+      "version": "file:com.sunstudio.foldercreator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.16",
       "depth": 1,
