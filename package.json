@@ -1,7 +1,7 @@
 {
     "name":"com.sunstudio.foldercreator",
     "version": "0.0.1",
-    "displayName": "SS FolderCreator",
+    "displayName": "SunStudio.FolderCreator",
     "description": "文件夹创建",
     "author": {"name": "Sun"}
 }
